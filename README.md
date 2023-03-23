@@ -35,8 +35,8 @@ My Projects
 <br/>
 ## 一点点美术
 ### Maya建模
-![这是图片](/img/scene.jpg){:height="50%" width="50%"}
-![这是图片](/img/lucyA.jpg){:height="50%" width="50%"}![这是图片](/img/lucyB.jpg){:height="20%" width="20%"}
+![这是图片](/img/scene.jpg){:height="70%" width="70%"}
+![这是图片](/img/lucyA.jpg){:height="70%" width="70%"}![这是图片](/img/lucyB.jpg){:height="25%" width="25%"}
 <br/>
 ### 一些画画
-![这是图片](/img/hua.jpg){:height="60%" width="60%"}
+![这是图片](/img/hua.jpg){:height="90%" width="90%"}
