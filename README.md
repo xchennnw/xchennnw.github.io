@@ -15,6 +15,9 @@ My Projects
 ### 基于C++的光栅化渲染器                                                                                      
 本项目使用C++，实现了一个CPU运行的光栅化渲染器。该项目包括了Json格式模型文件的读取，可控制位置与角度的相机，三角剖分、世界到屏幕空间变换、逐行与三角形求交、重心坐标插值、z-buffer，以及MSAA抗锯齿。
 ![这是图片](/img/rasterizer.png){:height="50%" width="50%"}![这是图片](/img/rasterizer2.png){:height="50%" width="50%"}
+<br/>
+<br/>
+<br/>
 ## 一些小游戏
 ### Unity模仿实现哈利波特：魔法觉醒的决斗玩法    
 本项目使用Unity和C#独立完成，模仿实现哈利波特：魔法觉醒中的决斗玩法（其中的对手改为AI控制）。包括决斗场景UI、角色控制、根据魔力值使用卡牌的系统，以及多种攻击、回复、防护、伙伴卡、召唤卡的魔法卡牌效果。
@@ -28,3 +31,11 @@ My Projects
 和朋友们好玩做的。
 <iframe src="//player.bilibili.com/player.html?aid=653936071&bvid=BV1XY4y1D775&cid=1064640991&page=1" width="400" height="225" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
+<br/>
+<br/>
+## 一点点美术
+### Maya建模
+![这是图片](/img/scene.jpg){:height="50%" width="50%"}
+![这是图片](/img/lucyA.jpg){:height="50%" width="50%"}![这是图片](/img/lucyB.jpg){:height="50%" width="50%"}
+<br/>
+### 画画
