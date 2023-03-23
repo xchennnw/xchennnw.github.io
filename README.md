@@ -16,8 +16,10 @@ My Portfolio
 本项目使用C++，实现了一个CPU运行的光栅化渲染器。该项目包括了Json格式模型文件的读取，可控制位置与角度的相机，三角剖分、世界到屏幕空间变换、逐行与三角形求交、重心坐标插值、z-buffer，以及MSAA抗锯齿。
 ![这是图片](/img/rasterizer.png){:height="50%" width="50%"}![这是图片](/img/rasterizer2.png){:height="50%" width="50%"}
 <br/>
+<br/>
 ### 基于C++和OpenGL的迷你模型编辑器                                                                   
-本项目使用OpenGL和C++，实现了一个基础的模型编辑器。项目读取Obj和Json格式文件，建立以顶点、面、Half Edge为结构的模型，和以关节为结构的骨骼。功能包括点线面的选中，改变顶点位置和面的颜色，模型整体曲面细分，线性混合蒙皮，编辑关节的位置与旋转。  
+本项目使用OpenGL和C++，实现了一个基础的模型编辑器。项目读取Obj和Json格式文件，建立以顶点、面、Half Edge为结构的模型，和以关节为结构的骨骼。功能包括点线面的选中，改变顶点位置和面的颜色，模型整体曲面细分，线性混合蒙皮，编辑关节的位置与旋转。 
+<iframe src="//player.bilibili.com/player.html?aid=311378274&bvid=BV18P411o7H3&cid=1066683662&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 ### 一些GLSL Shader 
 基本光照模型，高斯模糊，Bloom，顶点动画，噪音，等。
