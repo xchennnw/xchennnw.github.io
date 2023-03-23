@@ -21,6 +21,7 @@ My Portfolio
 <br/>
 ### 一些GLSL Shader 
 基本光照模型，高斯模糊，Bloom，顶点动画，噪音，等。
+<iframe src="//player.bilibili.com/player.html?aid=781495177&bvid=BV1f24y1j7zw&cid=1066565022&page=1" width="400" height="225" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 <br/>
 <br/>
