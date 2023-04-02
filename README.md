@@ -9,7 +9,7 @@ My Portfolio
 <iframe src="//player.bilibili.com/player.html?aid=226443677&bvid=BV1sb411o7os&cid=1064886672&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 ### 基于C++和OpenGL模仿实现我的世界                                                                             
-本项目使用OpenGL和C++, 3人小组合作，模仿实现了我的世界里的场景生成（包括多种生物群系和洞穴系统），地块的渲染、贴图，以及拆除和添加地块的玩法。我负责了玩家和相机的控制（包括第一、三人称切换，以及滑翔功能），玩家物理和碰撞检测，噪音生成地上地形和地下洞穴，植被，河流生成，水面和水下效果shader，拆除和添加地块的功能，以及npc的绘制和控制。
+本项目使用OpenGL和C++, 3人小组合作，模仿实现了我的世界的场景生成和基本玩法。内容包括地块的渲染、贴图，拆除和添加地块的玩法，玩家的渲染和控制（包括第一、三人称切换，基本动画，以及滑翔功能），玩家物理模拟和碰撞检测，程序化生成多种地上地形和生物群系、地下洞穴、河流，水面shader和水下后处理，以及NPC的渲染和控制。
 <iframe src="//player.bilibili.com/player.html?aid=353981991&bvid=BV1zX4y1d7s9&cid=1066472125&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 ### 基于C++的光栅化渲染器                                                                                      
