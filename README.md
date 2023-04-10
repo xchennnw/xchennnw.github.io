@@ -13,7 +13,7 @@ My Portfolio
 <iframe src="//player.bilibili.com/player.html?aid=353981991&bvid=BV1zX4y1d7s9&cid=1066472125&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
 ### 基于C++的光栅化渲染器                                                                                      
-本项目使用C++，实现了一个CPU运行的光栅化渲染器。该项目包括了Json格式模型文件的读取，可控制位置与角度的相机，三角剖分、世界到屏幕空间变换、逐行与三角形求交、重心坐标插值、z-buffer，以及MSAA抗锯齿。
+本项目使用C++，实现了一个CPU运行的光栅化渲染器。该项目包括了Json格式模型文件的读取，可控制位置与角度的相机，三角剖分、世界到屏幕空间变换、逐行与三角形求交、重心坐标插值、z-buffer，以及SSAA抗锯齿。
 ![这是图片](/img/rasterizer.png){:height="50%" width="50%"}![这是图片](/img/rasterizer2.png){:height="50%" width="50%"}
 <br/>
 <br/>
