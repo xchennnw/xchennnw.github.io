@@ -12,6 +12,10 @@ My Portfolio
 本项目使用OpenGL和C++, 3人小组合作，模仿实现了我的世界的场景生成和基本玩法。内容包括地块的渲染、贴图，拆除和添加地块的玩法，玩家的渲染和控制（包括第一、三人称切换，基本动画，以及滑翔功能），玩家物理模拟和碰撞检测，程序化生成多种地上地形和生物群系、地下洞穴、河流，水面shader和水下后处理，以及NPC的渲染和控制。
 <iframe src="//player.bilibili.com/player.html?aid=353981991&bvid=BV1zX4y1d7s9&cid=1066472125&page=1" width="500" height="280" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <br/>
+### PBR                                                    
+![这是图片](/img/result1.png){:height="50%" width="50%"}![这是图片](/img/result2.png){:height="50%" width="50%"}
+![这是图片](/img/result3.png){:height="50%" width="50%"}![这是图片](/img/result4.png){:height="50%" width="50%"}
+<br/>
 ### 基于C++的光栅化渲染器                                                                                      
 本项目使用C++，实现了一个CPU运行的光栅化渲染器。该项目包括了Json格式模型文件的读取，可控制位置与角度的相机，三角剖分、世界到屏幕空间变换、逐行与三角形求交、重心坐标插值、z-buffer，以及SSAA抗锯齿。
 ![这是图片](/img/rasterizer.png){:height="50%" width="50%"}![这是图片](/img/rasterizer2.png){:height="50%" width="50%"}
